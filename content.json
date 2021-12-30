@@ -1,0 +1,10 @@
+﻿{
+  "Music" : [
+    {
+      "Id": "crystal",
+      "File": "silence.ogg",
+      "Loop": false,
+      "Ambient": false
+    }
+  ]
+}

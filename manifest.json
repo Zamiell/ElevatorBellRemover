@@ -1,0 +1,13 @@
+{
+  "Name": "ElevatorBellRemover",
+  "Author": "Zamiel",
+  "Version": "1.0.0",
+  "Description": "Removes the sound effect of the elevator bell",
+  "UniqueID": "Zamiel.ElevatorBellRemover",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["GitHub:Zamiell/ElevatorBellRemover"],
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.CustomMusic",
+    "MinimumVersion": "1.0.0"
+  }
+}
